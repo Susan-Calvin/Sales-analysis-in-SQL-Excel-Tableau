@@ -1,7 +1,7 @@
 # Sales analysis in SQL-> Excel -> Tableau
 | № | Project   | Topic   |Description                                                    | Tools |
 |---|----------|--------|------------------------------------------------------------|-------------|
-|1  |[Analysing sales](https://github.com/Susan-Calvin/Sales-analysis-in-SQL-Excel-Tableau/blob/main/SQL_Excel_Tableau.ipynb)|Data transfer from SQL to Excel and Tableau|Analysis of performance of sales representatives|python, pandas, sqlalchemy, psycopg2, xlsxwriter|
+|1  |[Analysing sales](https://github.com/Susan-Calvin/Sales-analysis-in-SQL-Excel-Tableau/blob/main/SQL_Excel_Tableau.ipynb)|Data transfer from SQL to Excel and Tableau|Analysis of performance of sales representatives|SQL, python, pandas, sqlalchemy, psycopg2, xlsxwriter, Tableau, Google spreadsheets|
 
 Description:
 
